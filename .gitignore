@@ -1,0 +1,14 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Excel temporary files
+~$*
+
+# Stata temporary and log files
+*.log
+*.smcl
+*.tmp
+
+# Supporting files excluded from GitHub
+other/
